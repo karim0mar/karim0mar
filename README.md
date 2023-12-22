@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm <a href="github.com/karim0mar" target="_blank">Karim Omar</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
