@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Elon Tang</a> <img
+<h1 align="center">Hi there, I'm <a href="github.com/karim0mar" target="_blank">Karim Omar</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 ```python
@@ -22,11 +22,11 @@ me.say_hi()
 
 <br />
 
-<a href="mailto:i@blackcater.dev">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+<a href="mailto:karim.omar2025@gmail.com">
+  <img src="https://github.com/karim0mar/karim0mar/blob/main/gmail_icon.svg" height="40" />
 </a>
-<a href="https://leetcode-cn.com/u/blackcater/">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
+<a href="https://codeforces.com/profile/karim_omar99">
+  <img src="https://github.com/karim0mar/karim0mar/blob/main/codeforces_icon.svg" height="40" />
 </a>
 
 <br />
