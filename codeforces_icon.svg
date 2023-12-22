@@ -43,5 +43,5 @@
     <g fill-rule="nonzero" id="svg_3" transform="translate(42 34)"/>
    </g>
   </g>
-  <use id="svg_8" transform="matrix(1 0 0 1 0 0) matrix(0.699762 0 0 1.71921 -3062.22 157.871)" x="4560.35" xlink:href="#svg_7" y="-148.87"/>
+  <use fill="#ffffff" id="svg_8" transform="matrix(0.699762 0 0 1.71921 -3062.22 157.871)" x="4560.35" xlink:href="#svg_7" y="-148.87"/>
  </g></svg>
