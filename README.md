@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
+```ruby
 class SoftwareEngineer:
 
     def __init__(self):
@@ -15,3 +15,4 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+```
